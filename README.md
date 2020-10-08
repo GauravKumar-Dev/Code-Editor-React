@@ -1,9 +1,9 @@
-Welcome to this Repository
+# Welcome to this Repository
 
 This is a Code editor like Codepen
 
-For using this Project
+# For using this Project
 
-1. npm install
-2. npm start
+- npm install
+- npm start
 
