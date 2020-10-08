@@ -1,6 +1,6 @@
 # Welcome to this Repository
 
-This is a Code editor like Codepen
+This is a Code editor for HTML, CSS, JS
 
 ### For using this Project
 
